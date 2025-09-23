@@ -1,0 +1,20 @@
+# Build and install directories
+/build/
+/install/
+
+# CMake cache and files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+install_manifest.txt
+compile_commands.json
+
+# Visual Studio / MSBuild
+*.vcxproj*
+*.sln
+*.user
+Debug/
+Release/
+RelWithDebInfo/
+MinSizeRel/
